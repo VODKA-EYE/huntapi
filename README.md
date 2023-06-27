@@ -1,24 +1,18 @@
-# README
+Something awful written on RubyOnRails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+    Ruby version - 2.7.7
 
-Things you may want to cover:
+    Database - postgres sql
 
-* Ruby version
+    OS - any unix system
 
-* System dependencies
+If you want deploy on your pc for some reason:
 
-* Configuration
+    Download that archive
+    cd to it
+    bundle
+    rake db:setup
+    rails s
+    profit?
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It's works on my systemtm
