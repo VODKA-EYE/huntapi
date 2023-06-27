@@ -1,0 +1,101 @@
+name,cost,ammo_type_id,ammo_amount,slot_size,image_url
+Bornheim No. 3,146,1,15,1,https://huntshowdown.rocks/images/weapons/icons/pistol_bergmann_1896_icon.webp
+Bornheim No. 3 Extended,203,1,18,1,https://huntshowdown.rocks/images/weapons/icons/pistol_bergmann_1896_extended_icon.webp
+Bornheim No. 3 Match,180,1,15,2,https://huntshowdown.rocks/images/weapons/icons/pistol_bergmann_1896_precision_icon.webp
+Caldwell 92 New Army,90,1,18,1,https://huntshowdown.rocks/images/weapons/icons/caldwell_92_new_army_icon.webp
+Caldwell Conversion Pistol,55,1,24,1,https://huntshowdown.rocks/images/weapons/icons/pistol_caldwell_conversion_pistol_icon.webp
+Caldwell Conversion Chain Pistol,84,1,35,1,https://huntshowdown.rocks/images/weapons/icons/pistol_caldwell_conversion_chain_pistol_icon.webp
+Caldwell Conversion Uppercut,414,3,15,1,https://huntshowdown.rocks/images/weapons/icons/pistol_caldwell_conversion_uppercut_icon.webp
+Caldwell Pax,80,2,18,1,https://huntshowdown.rocks/images/weapons/icons/pistol_1r_colt_pax_icon.webp
+Caldwell Pax Claw,105,2,18,1,https://huntshowdown.rocks/images/weapons/icons/pistol_1r_colt_pax_blade_icon.webp
+Dolch 96,750,5,20,1,https://huntshowdown.rocks/images/weapons/icons/pistol_dolch_96_icon.webp
+Dolch 96 Precision,790,5,20,2,https://huntshowdown.rocks/images/weapons/icons/pistol_dolch_96_precision_icon.webp
+LeMat Mark II,95,1,27,1,https://huntshowdown.rocks/images/weapons/icons/pistol_lemat_revolver_icon.webp
+LeMat Mark II Carbine,130,1,27,3,https://huntshowdown.rocks/images/weapons/icons/rifle_lemat_mark_2_carbine_icon.webp
+Nagant M1895,24,1,28,1,https://huntshowdown.rocks/images/weapons/icons/pistol_nagant_m1895_icon.webp
+Nagant M1895 Precision,29,1,28,2,https://huntshowdown.rocks/images/weapons/icons/pistol_nagant_m1895_precision_icon.webp
+Nagant M1895 Silencer,93,1,28,1,https://huntshowdown.rocks/images/weapons/icons/pistol_nagant_m1895_silencer_icon.webp
+Nagant M1895 Deadeye,42,1,28,2,https://huntshowdown.rocks/images/weapons/icons/pistol_nagant_m1895_deadeye_icon.webp
+Nagant M1895 Officer,96,1,21,1,https://huntshowdown.rocks/images/weapons/icons/pistol_nagant_m1895_officer_icon.webp
+Nagant M1895 Officer Brawler,110,1,21,1,https://huntshowdown.rocks/images/weapons/icons/pistol_nagant_m1895_officer_brawler_icon.webp
+Nagant M1895 Officer Carbine,155,1,21,3,https://huntshowdown.rocks/images/weapons/icons/pistol_nagant_m1895_officer_carbine_icon.webp
+Nagant M1895 Officer Carbine Deadeye,211,1,21,3,https://huntshowdown.rocks/images/weapons/icons/pistol_nagant_m1895_officer_carbine_deadeye_icon.webp
+Scottfield Model 3,77,2,18,1,https://huntshowdown.rocks/images/weapons/icons/scottfield_model_3_icon.webp
+Scottfield Model 3 Brawler,92,2,18,1,https://huntshowdown.rocks/images/weapons/icons/scottfield_model_3_brawler_icon.webp
+Scottfield Model 3 Precision,85,2,18,2,https://huntshowdown.rocks/images/weapons/icons/scottfield_model_3_precision_icon.webp
+Scottfield Model 3 Spitfire,108,2,18,1,https://huntshowdown.rocks/images/weapons/icons/scottfield_model_3_spitfire_icon.webp
+Scottfield Model 3 Swift,95,2,18,1,https://huntshowdown.rocks/images/weapons/icons/scottfield_model_3_swift_icon.webp
+Romero 77,66,4,13,3,https://huntshowdown.rocks/images/weapons/icons/shotgun_romero_77_icon.webp
+Romero 77 Talon,84,4,13,3,https://huntshowdown.rocks/images/weapons/icons/rifle_romero_77_talon_icon.webp
+Romero 77 Handcannon,46,4,11,2,https://huntshowdown.rocks/images/weapons/icons/shotgun_romero_77_handcannon_icon.webp
+Romero 77 Hatchet,82,4,11,2,https://huntshowdown.rocks/images/weapons/icons/shotgun_romero_77_hatchet_icon.webp
+Romero 77 Alamo,98,4,9,3,https://huntshowdown.rocks/images/weapons/icons/romero_77_alamo_icon.webp
+Winfield M1887 Terminus,238,4,14,3,https://huntshowdown.rocks/images/weapons/icons/winfield_1887_terminus_icon.webp
+Winfield M1887 Terminus Handcannon,218,4,11,2,https://huntshowdown.rocks/images/weapons/icons/winfield_1887_terminus_handcannon_icon.webp
+Specter 1882,188,4,14,3,https://huntshowdown.rocks/images/weapons/icons/shotgun_specter_1882_icon.webp
+Specter 1882 Compact,164,4,11,2,https://huntshowdown.rocks/images/weapons/icons/shotgun_spencer_1882_compact_foregrip_icon.webp
+Specter 1882 Bayonet,223,4,14,3,https://huntshowdown.rocks/images/weapons/icons/shotgun_specter_1882_bayonet_icon.webp
+Caldwell Rival 78,150,4,10,3,https://huntshowdown.rocks/images/weapons/icons/shotgun_caldwell_rival_78_icon.webp
+Caldwell Rival 78 Handcannon,85,4,8,2,https://huntshowdown.rocks/images/weapons/icons/shotgun_caldwell_rival_78_handcannon_icon.webp
+Winfield 1893 Slate,333,4,11,3,https://huntshowdown.rocks/images/weapons/icons/winfield_1893_slate_icon.webp
+Crown & King Auto-5,600,4,11,3,https://huntshowdown.rocks/images/weapons/icons/shotgun_crown_and_king_auto_5_icon.webp
+Winfield M1873C,41,1,35,3,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_m1873c_icon.webp
+Winfield M1873C Silencer,55,1,35,3,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_m1873c_silencer_icon.webp
+Winfield M1873C Marksman,56,1,35,3,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_m1873c_marksman_icon.webp
+Winfield M1873C Vandal,35,1,34,2,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_m1873c_vandal_icon.webp
+Winfield M1873C Vandal Deadeye,45,1,34,2,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_m1873c_vandal_deadeye_icon.webp
+Winfield M1873C Vandal Striker,39,1,34,2,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_m1873c_vandal_striker_icon.webp
+Springfield 1866,38,2,25,3,https://huntshowdown.rocks/images/weapons/icons/rifle_springfield_1866_trapdoor_icon.webp
+Springfield 1866 Marksman,73,2,25,3,https://huntshowdown.rocks/images/weapons/icons/rifle_springfield_1866_trapdoor_marksman_icon.webp
+Springfield 1866 Compact,33,2,25,2,https://huntshowdown.rocks/images/weapons/icons/rifle_springfield_1866_trapdoor_compact_icon.webp
+Springfield 1866 Compact Deadeye,46,2,25,2,https://huntshowdown.rocks/images/weapons/icons/rifle_springfield_1866_trapdoor_compact_deadeye_icon.webp
+Springfield 1866 Compact Striker,56,2,25,2,https://huntshowdown.rocks/images/weapons/icons/rifle_springfield_1866_trapdoor_compact_striker_icon.webp
+Martini-Henry IC1,122,3,21,3,https://huntshowdown.rocks/images/weapons/icons/rifle_martini_henry_icon.webp
+Martini-Henry IC1 Riposte,164,3,21,3,https://huntshowdown.rocks/images/weapons/icons/rifle_martini_henry_bayonet_icon.webp
+Martini-Henry IC1 Deadeye,145,3,21,3,https://huntshowdown.rocks/images/weapons/icons/rifle_martini_henry_deadeye_icon.webp
+Martini-Henry IC1 Marksman,173,3,21,3,https://huntshowdown.rocks/images/weapons/icons/rifle_martini_henry_marksman_icon.webp
+Martini-Henry IC1 Ironside,184,3,15,3,https://huntshowdown.rocks/images/weapons/icons/rifle_martini_henry_ic1_ironside_icon.webp
+Vetterli 71 Karabiner,105,2,26,3,https://huntshowdown.rocks/images/weapons/icons/rifle_vetterli_71_karabiner_icon.webp
+Vetterli 71 Karabiner Deadeye,130,2,26,3,https://huntshowdown.rocks/images/weapons/icons/rifle_vetterli_71_karabiner_deadeye_icon.webp
+Vetterli 71 Karabiner Bayonet,155,2,26,3,https://huntshowdown.rocks/images/weapons/icons/rifle_vetterli_71_karabiner_bayonet_icon.webp
+Vetterli 71 Karabiner Marksman,190,2,26,3,
+Vetterli 71 Karabiner Silencer,150,2,26,3,
+Sparks LRR,130,3,17,3,https://huntshowdown.rocks/images/weapons/icons/rifle_sparks_lrr_icon.webp
+Sparks LRR Silencer,150,3,17,3,https://huntshowdown.rocks/images/weapons/icons/rifle_sparks_lrr_silencer_icon.webp
+Sparks Pistol,155,3,15,1,https://huntshowdown.rocks/images/weapons/icons/pistol_sparks_lrr_icon.webp
+Sparks LRR Sniper,199,3,17,3,https://huntshowdown.rocks/images/weapons/icons/rifle_sparks_lrr_sniper_icon.webp
+Winfield M1876 Centennial,157,2,21,3,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_M1876_centennial_icon.webp
+Winfield M1876 Centennial Shorty,103,2,17,2,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_M1876_centennial_shorty_icon.webp
+Winfield M1876 Centennial Shorty Silencer,137,2,17,2,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_M1876_centennial_shorty_silencer_icon.webp
+Winfield M1876 Centennial Trauma,200,2,21,3,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_M1876_centennial_trauma_icon.webp
+Winfield M1876 Centennial Sniper,229,2,21,3,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_M1876_centennial_sniper_icon.webp
+Winfield M1873,75,1,35,3,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_m1873_icon.webp
+Winfield M1873 Aperture,80,1,35,3,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_m1873_peephole_icon.webp
+Winfield M1873 Talon,100,1,35,3,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_m1873_talon_icon.webp
+Winfield M1873 Musket Bayonet,137,1,37,3,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_m1873_musket_bayonet_icon.webp
+Winfield M1873 Swift,128,1,35,3,https://huntshowdown.rocks/images/weapons/icons/rifle_winfield_m1873_swift_icon.webp
+Berthier Mle 1892,356,3,15,3,https://huntshowdown.rocks/images/weapons/icons/berthier_mle_1892_icon.webp
+Berthier Mle 1892 Deadeye,388,3,15,3,https://huntshowdown.rocks/images/weapons/icons/berthier_mle_1892_deadeye_icon.webp
+Berthier Mle 1892 Riposte,370,3,15,3,https://huntshowdown.rocks/images/weapons/icons/berthier_mle_1892_riposte_icon.webp
+Lebel 1886,397,3,15,3,https://huntshowdown.rocks/images/weapons/icons/rifle_lebel_1886_icon.webp
+Lebel 1886 Aperture,425,3,15,3,https://huntshowdown.rocks/images/weapons/icons/rifle_lebel_1886_aperture_icon.webp
+Lebel 1886 Talon,422,3,15,3,https://huntshowdown.rocks/images/weapons/icons/rifle_lebel_1886_talon_icon.webp
+Lebel 1886 Marksman,607,3,15,3,https://huntshowdown.rocks/images/weapons/icons/rifle_lebel_1886_marksman_icon.webp
+Mosin-Nagant M1891,490,3,15,3,https://huntshowdown.rocks/images/weapons/icons/rifle_mosin_nagant_m1891_icon.webp
+Mosin-Nagant M1891 Obrez,290,3,15,2,https://huntshowdown.rocks/images/weapons/icons/rifle_mosin_nagant_m1891_obrez_icon.webp
+Mosin-Nagant M1891 Bayonet,540,3,15,3,https://huntshowdown.rocks/images/weapons/icons/rifle_mosin_nagant_m1891_bayonet_icon.webp
+Mosin-Nagant M1891 Obrez Mace,310,3,15,2,https://huntshowdown.rocks/images/weapons/icons/rifle_mosin_nagant_m1891_obrez_mace_icon.webp
+Mosin-Nagant M1891 Obrez Drum,350,3,15,2,https://huntshowdown.rocks/images/weapons/icons/rifle_mosin_nagant_m1891_obrez_barreldrum_icon.webp
+Mosin-Nagant M1891 Sniper,730,3,15,3,https://huntshowdown.rocks/images/weapons/icons/rifle_mosin_nagant_m1891_sniper_icon.webp
+Mosin-Nagant M1891 Avtomat,1250,3,15,3,https://huntshowdown.rocks/images/weapons/icons/rifle_mosin_nagant_m1891_avtomat_icon.webp
+Nitro Express Rifle,1015,6,6,3,https://huntshowdown.rocks/images/weapons/icons/rifle_nitro_express_rifle_icon.webp
+Springfield M1892 Krag,376,3,11,3,https://huntshowdown.rocks/images/weapons/icons/rifle_springfield_m1892_krag_icon.webp
+Springfield M1892 Krag Bayonet,426,3,11,3,
+Springfield M1892 Krag Sniper,579,3,11,3,
+Bomb Lance,199,8,6,3,https://huntshowdown.rocks/images/weapons/icons/melee_bomb_lance_icon.webp
+Hand crossbow,30,11,17,1,https://huntshowdown.rocks/images/weapons/icons/special_hand_crossbow_icon.webp
+Crossbow,50,12,19,3,https://huntshowdown.rocks/images/weapons/icons/special_crossbow_icon.webp
+Hunting bow,57,13,17,2,https://huntshowdown.rocks/images/weapons/icons/hunting_bow_icon.webp
+Combat axe,15,,,2,https://huntshowdown.rocks/images/weapons/icons/melee_combat_axe_icon.webp
+Machete,18,,,1,https://huntshowdown.rocks/images/weapons/icons/melee_machete_icon.webp
+Cavalery saber,60,,,1,https://huntshowdown.rocks/images/weapons/icons/melee_cavalry_saber_icon.webp
