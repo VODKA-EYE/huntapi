@@ -14,6 +14,12 @@ gem 'pg', '~> 1.1'
 # Use the Puma web server [https://github.com/puma/puma]
 gem 'puma', '~> 5.0'
 
+gem 'activerecord-import'
+gem 'active_model_serializers', '~> 0.10.13'
+# gem 'devise', '~> 4.8'
+# gem 'has_scope', '~> 0.8.1'
+# gem 'pagy', '~> 6.0'
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
@@ -46,10 +52,6 @@ end
 group :development do
   # Speed up commands on slow machines / big apps [https://github.com/rails/spring]
   # gem "spring"
-  gem 'active_model_serializers', '~> 0.10.13'
-  gem 'activerecord-import'
-  gem 'devise', '~> 4.8'
-  gem 'has_scope', '~> 0.8.1'
-  gem 'pagy', '~> 6.0'
+
   gem 'pry', '~> 0.14.2'
 end
