@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class AmmoTypeController < ApplicationController
+class ConsumableController < ApplicationController
   def all
     consumables = Consumable.all.order(:name)
     render json: consumables

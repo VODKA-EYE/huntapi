@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class AmmoTypeController < ApplicationController
+class ToolController < ApplicationController
   def all
     tools = Tool.all.order(:name)
     render json: tools
