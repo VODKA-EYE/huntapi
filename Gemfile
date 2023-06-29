@@ -14,8 +14,8 @@ gem 'pg', '~> 1.1'
 # Use the Puma web server [https://github.com/puma/puma]
 gem 'puma', '~> 5.0'
 
-gem 'activerecord-import'
 gem 'active_model_serializers', '~> 0.10.13'
+gem 'activerecord-import'
 # gem 'devise', '~> 4.8'
 # gem 'has_scope', '~> 0.8.1'
 # gem 'pagy', '~> 6.0'
